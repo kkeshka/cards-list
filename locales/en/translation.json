@@ -1,0 +1,23 @@
+{
+  "cards": {
+    "title": "Credit Cards",
+    "table": {
+      "head": {
+        "number": "Card Number",
+        "name": "Cardholder Name",
+        "expiry": "Expiry Date",
+        "action": "Action"
+      },
+      "body": {
+        "button": {
+          "block": "Block",
+          "unblock": "Unblock"
+        }
+      }
+    }
+  },
+  "add-card": {
+    "title": "Add New Card",
+    "button": "Add Card"
+  }
+}
