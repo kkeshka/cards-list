@@ -1,0 +1,6 @@
+{
+  "cards": [
+    {"id": 1, "number": "**** **** **** 1234", "owner": "John Doe", "expiry": "12/23"},
+    {"id": 2, "number": "**** **** **** 5678", "owner": "Jane Smith", "expiry": "11/24"}
+  ]
+}
