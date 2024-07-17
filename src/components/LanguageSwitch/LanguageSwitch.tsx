@@ -27,7 +27,7 @@ function LanguageSwitch({
     <TabsWrapper
       centered
       value={value}
-      onChange={(event: React.SyntheticEvent, newValue: string) => onChange(newValue)}
+      onChange={(_event: React.SyntheticEvent, newValue: string) => onChange(newValue)}
     >
       <TabItemWrapper label={'English'} value={'en'}/>
       <TabItemWrapper label={'Русский'} value={'ru'}/>
