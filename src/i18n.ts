@@ -11,6 +11,9 @@ i18n
     fallbackLng: 'en',
     supportedLngs: ['en', 'ru'],
     lng: 'en',
+    backend: {
+      loadPath: '/cards-list/locales/{{lng}}/translation.json'
+    }
   });
 
 export default i18n;
